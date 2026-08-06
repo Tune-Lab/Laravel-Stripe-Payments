@@ -1,0 +1,16 @@
+/node_modules
+/vendor
+.env
+.env.*
+.phpunit.result.cache
+.phpstorm.meta.php
+Homestead.json
+Homestead.yaml
+composer.lock
+package-lock.json
+_ide_helper.php
+_ide_helper_models.php
+/.fleet
+/.idea
+/.vscode
+clear.sh
